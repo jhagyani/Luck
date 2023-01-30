@@ -1,1 +1,5 @@
+I want to learn Devops
+wq
+
+
 Hi, this is my first Devops script

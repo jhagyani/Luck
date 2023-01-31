@@ -1,5 +1,6 @@
 I want to learn Devops
-wq
 
 
-Hi, this is my first Devops script
+
+
+Hi, his is my first Devops script
